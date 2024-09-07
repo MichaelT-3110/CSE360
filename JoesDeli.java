@@ -1,6 +1,8 @@
 // Programmer: MichaelTran
 // HW1 
 // 9/6/2024
+// Consider the following GUI based java application for Joe’s Deli breakfast processing. 
+// You are required to develop the following breakfast ordering application for Joe’s Deli using JavaFX.
 // Instructor: Dr.JanakaBalasooriya
 
 package application;
@@ -11,7 +13,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class HW1 extends Application {
+public class JoesDeli extends Application {
     // Prices
     private static final double EGG_SANDWICH_PRICE = 7.99;
     private static final double BAGEL_PRICE = 2.50;
